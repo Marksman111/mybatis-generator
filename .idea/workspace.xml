@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05a76a82-5135-447f-bba5-2cab6a1e1259" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-gradle-plugin/.gradle/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-gradle-plugin/build/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-gradle-plugin/out/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-maven-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-no-plugin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/mybatis-generator-gradle-plugin">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/mybatis-generator-gradle-plugin">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis-generator-gradle-plugin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis-generator-gradle-plugin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis-generator-gradle-plugin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin" value="D:\DevelopTools\gradle-4.7" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin" value="4.7" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="mybatis-generator-gradle-plugin" />
+              <option name="path" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="mybatis-generator-gradle-plugin" />
+                <option name="path" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'mybatis-generator-gradle-plugin'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'mybatis-generator-gradle-plugin'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'mybatis-generator-gradle-plugin'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="mbGenerator" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'mybatis-generator-gradle-plugin'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin" value="4674251092987" />
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin/build.gradle" value="3642395651" />
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin/settings.gradle" value="1279484475" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.1.RELEASE/51cf92fbcfec4ec864ebe186123083209908475a/spring-boot-gradle-plugin-2.0.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.1.RELEASE/4fb4f581eef802bec93f060411811e3d178c8190/spring-boot-gradle-plugin-2.0.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.com.arenagod.gradle/mybatis-generator-plugin/1.4/be9a3fdaac4f8d4fee44a1a217d261355e03092d/mybatis-generator-plugin-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.com.arenagod.gradle/mybatis-generator-plugin/1.4/c9639757ed02a25f7de391d03bef97d1f7c1e309/mybatis-generator-plugin-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.1.RELEASE/a993eae7019f5387642326d35f42c5c90b0ca174/spring-boot-loader-tools-2.0.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.1.RELEASE/a74a3907b0c6570ab9cefc26e611806dc89ca2be/spring-boot-loader-tools-2.0.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.5.RELEASE/ab32a4d2b281d459b431a5494a270a64b207490f/spring-core-5.0.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.5.RELEASE/1bd9feb1d9dac6accd27f5244b6c47cfcb55045c/spring-core-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.5.RELEASE/a5e61818e96b5a7645b65946af8e5a238137804d/spring-jcl-5.0.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.5.RELEASE/f4a2854b9d865e8b86717595aec16f877f8c6489/spring-jcl-5.0.5.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="mybatis-generator-gradle-plugin" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/DevelopTools/gradle-4.7/lib/ant-1.9.9.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/ant-launcher-1.9.9.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-base-services-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-base-services-groovy-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-build-cache-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-build-option-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-cli-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-core-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-core-api-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-docs-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-installation-beacon-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-jvm-services-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-kotlin-dsl-0.16.3.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-kotlin-dsl-tooling-builders-0.16.3.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-kotlin-dsl-tooling-models-0.16.3.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-launcher-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-logging-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-messaging-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-model-core-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-model-groovy-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-native-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-persistent-cache-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-process-services-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-resources-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-runtime-api-info-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-tooling-api-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/gradle-wrapper-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-announce-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-antlr-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-build-cache-http-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-build-comparison-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-build-init-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-code-quality-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-composite-builds-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-dependency-management-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-diagnostics-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-ear-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-ide-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-ide-native-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-ide-play-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-ivy-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-jacoco-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-javascript-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-language-groovy-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-language-java-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-language-jvm-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-language-native-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-language-scala-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-maven-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-osgi-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-platform-base-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-platform-jvm-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-platform-native-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-platform-play-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-plugin-development-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-plugin-use-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-plugins-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-publish-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-reporting-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-resources-gcs-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-resources-http-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-resources-s3-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-resources-sftp-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-scala-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-signing-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-test-kit-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-testing-base-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-testing-junit-platform-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-testing-jvm-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-testing-native-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-tooling-api-builders-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-version-control-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/gradle-workers-4.7.jar" />
+                  <option value="D:/DevelopTools/gradle-4.7/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/mybatis-generator-gradle-plugin/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/mybatis-generator-gradle-plugin/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../A-xingyun-global/linkiebuy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../a-xing-yun-global/linkiebuy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../a-xing-yun-global/service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../a-xing-yun-global/service/linkiebuy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/mybatis-generator-gradle-plugin" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../svn/cspoc/trunk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../xing-yun-global/service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-generator-gradle-plugin/settings.gradle" />
+        <option value="$PROJECT_DIR$/mybatis-generator-gradle-plugin/build.gradle" />
+        <option value="$PROJECT_DIR$/mybatis-generator-maven-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-gradle-plugin/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-maven-plugin/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-no-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/resources/generatorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/DevelopTools/apache/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\DevelopTools\apache\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-generator-maven-plugin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-generator-maven-plugin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-generator-maven-plugin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatis-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../a-xing-yun-global" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\IDEAWorkspace\github\mybatis-generator\mybatis-generator-no-plugin\src\main\java\com\marksman\mybatis\generator\no\plugin" />
+      <recent name="D:\workspace\IDEAWorkspace\github\mybatis-generator\mybatis-generator-no-plugin\src\main\resources" />
+      <recent name="D:\workspace\IDEAWorkspace\github\mybatis-generator\mybatis-generator-maven-plugin\src\main\resources" />
+      <recent name="D:\workspace\IDEAWorkspace\github\mybatis-generator\mybatis-generator-gradle-plugin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Generator">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.marksman.mybatis.generator.no.plugin.generator.Generator" />
+      <module name="mybatis-generator-no-plugin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marksman.mybatis.generator.no.plugin.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="mybatis-generator-gradle-plugin [mbGenerator]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mybatis-generator-gradle-plugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="mbGenerator" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MybatisGeneratorGradlePluginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-generator-gradle-plugin_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.marksman.mybatis.generator.gradle.plugin.MybatisGeneratorGradlePluginApplication" />
+    </configuration>
+    <configuration name="MybatisGeneratorMavenPluginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-generator-maven-plugin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.marksman.mybatis.generator.maven.plugin.MybatisGeneratorMavenPluginApplication" />
+    </configuration>
+    <configuration name="MybatisGeneratorNoPluginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-generator-no-plugin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.marksman.mybatis.generator.no.plugin.MybatisGeneratorNoPluginApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MybatisGeneratorGradlePluginApplication" />
+      <item itemvalue="Gradle.mybatis-generator-gradle-plugin [mbGenerator]" />
+      <item itemvalue="Spring Boot.MybatisGeneratorMavenPluginApplication" />
+      <item itemvalue="Spring Boot.MybatisGeneratorNoPluginApplication" />
+      <item itemvalue="Application.Generator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generator" />
+        <item itemvalue="Gradle.mybatis-generator-gradle-plugin [mbGenerator]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Marksman\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05a76a82-5135-447f-bba5-2cab6a1e1259" name="Default" comment="" />
+      <created>1558082925544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558082925544</updated>
+      <workItem from="1558082928424" duration="2976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2976000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Build" weight="0.32988167" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32988167" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Gradle" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="0" weight="0.32988167" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="1" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32988167" />
+      <window_info anchor="bottom" id="Spring" order="2" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3297587" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.3297587" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mybatis-generator.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/src/main/java/com/marksman/mybatis/generator/gradle/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="87" column="88" selection-start-line="87" selection-start-column="88" selection-end-line="87" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-maven-plugin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/src/main/java/com/marksman/mybatis/generator/gradle/plugin/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/src/main/java/com/marksman/mybatis/generator/gradle/plugin/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-maven-plugin/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="87" column="80" selection-start-line="87" selection-start-column="80" selection-end-line="87" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-maven-plugin/src/main/java/com/marksman/mybatis/generator/maven/plugin/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/java/com/marksman/mybatis/generator/no/plugin/generator/CommentGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/java/com/marksman/mybatis/generator/no/plugin/generator/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/java/com/marksman/mybatis/generator/no/plugin/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1041">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/java/com/marksman/mybatis/generator/no/plugin/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-no-plugin/src/main/java/com/marksman/mybatis/generator/no/plugin/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mybatis-generator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

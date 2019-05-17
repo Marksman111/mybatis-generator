@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator.iml" filepath="$PROJECT_DIR$/mybatis-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-gradle-plugin/mybatis-generator-gradle-plugin.iml" filepath="$PROJECT_DIR$/mybatis-generator-gradle-plugin/mybatis-generator-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-generator-gradle-plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-generator-gradle-plugin_main.iml" group="mybatis-generator-gradle-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-generator-gradle-plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-generator-gradle-plugin_test.iml" group="mybatis-generator-gradle-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-maven-plugin/mybatis-generator-maven-plugin.iml" filepath="$PROJECT_DIR$/mybatis-generator-maven-plugin/mybatis-generator-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-no-plugin/mybatis-generator-no-plugin.iml" filepath="$PROJECT_DIR$/mybatis-generator-no-plugin/mybatis-generator-no-plugin.iml" />
+    </modules>
+  </component>
+</project>
